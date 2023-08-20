@@ -1,2 +1,2 @@
 # Machine_learning_algorithms
-ML algorithms 
+ barebones ML algorithms using Matplotlib and Numpy
